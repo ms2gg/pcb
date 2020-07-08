@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name GG_SMS)(type Legacy)(uri ${KIPRJMOD}/GG_SMS.lib)(options "")(descr ""))
+)

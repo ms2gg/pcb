@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name GG_SMS)(type KiCad)(uri ${KIPRJMOD}/GG_SMS.pretty)(options "")(descr ""))
+)
